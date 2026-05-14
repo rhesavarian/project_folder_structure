@@ -8,3 +8,7 @@ git init
 """
 
 Alternatively, in the folder, there should be a bat file to clone and re-initialize git folder
+
+After cloning repo, install venv. Run setup_venv.bat, wait until process is completed
+
+You can start run the jupyter lab from the environment using start_jupyter_lab.bat

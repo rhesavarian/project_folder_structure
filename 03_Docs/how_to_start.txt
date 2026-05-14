@@ -11,4 +11,6 @@ Alternatively, in the folder, there should be a bat file to clone and re-initial
 
 After cloning repo, install venv. Run setup_venv.bat, wait until process is completed
 
+.env file can be copied into folder 02_Script
+
 You can start run the jupyter lab from the environment using start_jupyter_lab.bat

@@ -1,6 +1,10 @@
-Clone template repo from GitHub using
-git clone https://github.com/rhesavarian/project_folder_structure.git <project_name>
-delete .git folder
-git init in the new folder
+Clone template repo from GitHub, delete .git, and initialized new git repository. Run this code:
 
-Create venv in the parent folder, name venv
+"""
+git clone https://github.com/rhesavarian/project_folder_structure.git <project_name> 
+cd <project_name>
+rmdir /s /q .git
+git init
+"""
+
+Alternatively, in the folder, there should be a bat file to clone and re-initialize git folder

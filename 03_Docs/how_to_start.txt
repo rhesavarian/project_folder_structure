@@ -1,5 +1,5 @@
 Clone template repo from GitHub using
-git cline https://github.com/rhesavarian/project_folder_structure.git <project_name>
+git clone https://github.com/rhesavarian/project_folder_structure.git <project_name>
 delete .git folder
 git init in the new folder
 

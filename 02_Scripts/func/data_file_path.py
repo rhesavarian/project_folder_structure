@@ -1,5 +1,6 @@
 def get_data_path(file_path, data_type="raw"):
     import os
+
     """
     Add prefix to link to data folder
     No need to use / in the initial of file_path
